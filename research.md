@@ -30,7 +30,7 @@ After my PhD, I was hired at NCAR [ [http](http://ncar.ucar.edu/) ] to work on b
 
 I did my PhD at the CNRM, supervised by Thibaut Montmerle, Yann Michel and Loïc Berre, and worked on the subject:
 
-<center><i>Using ensemble data assimilation for the modelling of flow-dependent background error covariances at convective scale.</i></center><br>
+<center><i>Using ensemble data assimilation for the modelling of flow-dependent background error covariances at convective scale.</i></center>
 
 I was granted the Léopold Escande PhD award 2014 from the INP Toulouse [ [http](https://www.calameo.com/read/00477168438af02564f8d) ].
 
