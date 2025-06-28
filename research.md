@@ -6,9 +6,9 @@
 
 # Research positions
 
-## May 2023 - present: researcher at the Meteorologisk Institutt
+## May 2023 - present: researcher at the Norwegian Meteorological Institute
 
-Since May 2023, I'm working as a researcher at the Meteorologisk Institutt [ [http](https://www.met.no) ] in Oslo, Norway. I'm developing ensemble-variational methods for the data assimilation system of the AROME-HARMONIE model, within the ACCORD consortium [ [http](http://www.umr-cnrm.fr/accord) ]. I'm also interested in coupled data assimilation with land surface and diagnostics in observation space.
+Since May 2023, I'm working as a researcher at the Norwegian Meteorological Institute [ [http](https://www.met.no) ] in Oslo, Norway. I'm developing ensemble-variational methods for the data assimilation system of the AROME-HARMONIE model, within the ACCORD consortium [ [http](http://www.umr-cnrm.fr/accord) ]. I'm also interested in coupled data assimilation with land surface and diagnostics in observation space.
 
 ## October 2018 - April 2023: research scientist at the Institut de Recherche en Informatique de Toulouse (IRIT)
 
