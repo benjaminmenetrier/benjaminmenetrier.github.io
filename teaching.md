@@ -13,7 +13,9 @@
 
 ## Data assimilation training
 
-* Data assimilation training at [CERFACS](http://cerfacs.fr/en) (2016-2025), session on hybrid variational-ensemble methods. [ [pdf](https://rachelhonnert.fr/benjaminmenetrier/teaching/presentation_cerfacs_da_training.pdf) ]
+* Data assimilation training at [CERFACS](http://cerfacs.fr/en) (2016-2025), session on hybrid variational-ensemble methods:
+  * Presentation [ [pdf](https://rachelhonnert.fr/benjaminmenetrier/teaching/presentation_cerfacs_da_training.pdf) ]
+  * Reference card [ [pdf](https://rachelhonnert.fr/benjaminmenetrier/teaching/reference_card_cerfacs_da_training.pdf) ]
 * Practical (python): [ [zip](https://rachelhonnert.fr/benjaminmenetrier/teaching/EnVar.zip) ]
 
 ## JEDI Academy
