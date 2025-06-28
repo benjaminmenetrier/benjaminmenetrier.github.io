@@ -51,7 +51,7 @@
  * Berre, L., Arbogast, E., **Ménétrier, B.**, and Desroziers, G. (2017): Change of variable applied to mass and wind fields for covariance localisation. *WMO CAS/JSC WGNE Blue Book*, edited by J. Côté. [ [http](http://wmc.meteoinfo.ru/bluebook/uploads/2017/docs/01_Berre_Lo%C3%AFk_ChageVariableLocalisation.pdf) ]
 
 ## 2014
- * **Ménétrier, B.** (2014): Utilisation d'une assimilation d'ensemble pour modéliser des covariances d'erreur d'ébauche dépendantes de la situation météorologique à échelle convective. *Thèse de doctorat*. [ [pdf](https://rachelhonnert.fr/benjaminmenetrier/publications/2014/these_benjamin_menetrier.pdf) ]
+ * **Ménétrier, B.** (2014): Utilisation d'une assimilation d'ensemble pour modéliser des covariances d'erreur d'ébauche dépendantes de la situation météorologique à échelle convective. *Thèse de doctorat*. [ [pdf](https://theses.hal.science/tel-04261999v1) ]
 
 ## 2011
  * Montmerle, T., Michel, Y. and **Ménétrier, B.** (2011): Modelling of background error covariances for the analysis of clouds and precipitation. *ECMWF-JCSDA Workshop on Assimilating Satellite Observations of Clouds and Precipitation into NWP Models*, 15-17 June 2010, 121-132. [ [http](http://www.ecmwf.int/en/elibrary/12662-modelling-background-error-covariances-analysis-clouds-and-precipitation) ]
