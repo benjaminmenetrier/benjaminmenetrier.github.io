@@ -22,7 +22,7 @@
 
 * Introduction to the [SABER](https://github.com/jcsda/saber) library for [JCSDA](https://www.jcsda.org) collaborators (2019-2021):
   * Webpage of the latest [tutorial](http://academy.jcsda.org/2021-10)
-  * Presentation [ video [part 1](https://youtu.be/lXcyU7lBzL8) and [part 2](https://youtu.be/ddemux9m7_Y) | [pdf](https://rachelhonnert.fr/benjaminmenetrier/teaching/jedi_academy/presentation_BUMP.pdf) ]
+  * Presentation [ video [part 1](https://youtu.be/lXcyU7lBzL8) and [part 2](https://youtu.be/ddemux9m7_Y) &#124; [pdf](https://rachelhonnert.fr/benjaminmenetrier/teaching/jedi_academy/presentation_BUMP.pdf) ]
 
 ## Introduction to data assimilation
 
