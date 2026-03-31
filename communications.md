@@ -6,8 +6,16 @@
 
 # Communications
 
+## 2026
+
+ * **Ménétrier, B.** (2026): Data assimilation for weather forecasting. *Seminar of the optimization team at Linköpings Universitet*, 30 March 2025, Linköping, Sweden. [ [pdf](https://rachelhonnert.fr/benjaminmenetrier/communications/2026/presentation_LiU.pdf) ]
+ * **Ménétrier, B.** (2026): Scale-Dependent Localization (SDL) for dummies. *Internal meeting*, 13 January 2026, Oslo, Norway. [ [pdf](https://rachelhonnert.fr/benjaminmenetrier/communications/2026/presentation_SDL.pdf) ]
+
 ## 2025
 
+ * **Ménétrier, B.** (2025): EnVar: Opportunities and challenges. *MetCoOp working days*, 5 November 2025, Helsinki, Finland. [ [pdf](https://rachelhonnert.fr/benjaminmenetrier/communications/2025/presentation_MetCoOp_days.pdf) ]
+ * **Ménétrier, B.** (2025): Towards generic object-oriented data assimilation systems. *MATCH data assimilation workshop*, 22 October 2025, Norrköping, Sweden. [ [pdf](https://rachelhonnert.fr/benjaminmenetrier/communications/2025/presentation_MATCH_DA_workshop.pdf) ]
+ * **Ménétrier, B.** (2025): A modern implementation of the spectral background error covariance matrix. *47<sup>th</sup> EWGLAM meeting*, 24 September 2025, Norrköping, Sweden. [ [pdf](https://rachelhonnert.fr/benjaminmenetrier/communications/2025/presentation_EWGLAM.pdf) ]
  * **Ménétrier, B.** et al. (2025): HARMONIE-AROME EnVar team work. *ACCORD data assimilation working week*, 17 March 2025, Oslo, Norway. [ [pdf](https://rachelhonnert.fr/benjaminmenetrier/communications/2025/presentation_DA_WW_march.pdf) ]
 
 ## 2024
