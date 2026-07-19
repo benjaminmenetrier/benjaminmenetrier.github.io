@@ -34,4 +34,4 @@ I was granted the Léopold Escande PhD award 2014 from the INP Toulouse [ [http]
 
 ---
 
-&copy; 2025 Benjamin Menetrier
+&copy; 2026 Benjamin Menetrier

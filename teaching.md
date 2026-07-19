@@ -43,4 +43,4 @@
 
 ---
 
-&copy; 2025 Benjamin Menetrier
+&copy; 2026 Benjamin Menetrier

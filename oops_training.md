@@ -1061,4 +1061,4 @@ git diff feature/oops_tutorial_part_C feature/oops_tutorial_part_D
 
 ---
 
-&copy; 2025 Benjamin Menetrier
+&copy; 2026 Benjamin Menetrier

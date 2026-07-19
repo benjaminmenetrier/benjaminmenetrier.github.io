@@ -93,4 +93,4 @@ Assimilation*, 17-20 May 2021, virtual. [ [pdf](https://rachelhonnert.fr/benjami
 
 ---
 
-&copy; 2025 Benjamin Menetrier
+&copy; 2026 Benjamin Menetrier

@@ -6,8 +6,12 @@
 
 # Peer-reviewed publications
 
+## 2026
+* **Ménétrier, B.** (2026). The Normalized Interpolated Convolution from an Adaptive Subgrid (NICAS) method. Geoscientific Model Development, 2026, 19, 4497-4511.
+* Abdi-Oskouei, M., Barré, J., Wei, S.-W., Lu, S., Griffin, A., Hardy Gas, C., et al. (2026). Capability demonstration of a JEDI-based system for TEMPO assimilation: System description and evaluation. Journal of Advances in Modeling Earth Systems, 18, e2025MS005482.
+
 ## 2025
-* Lussana, C., Nipen, T., **Ménétrier, B.**, Seierstad, I. (2025): Ensemble‐based statistical interpolation of atmospheric variables near the surface. Q J R Meteorol Soc., DOI: 10.1002/qj.5046, in production.
+* Lussana, C., Nipen, T. N., **Ménétrier, B.**, Seierstad, I. A. (2025): Ensemble‐based statistical interpolation of atmospheric variables near the surface. Q J R Meteorol Soc., 151(772), e5046.
 
 ## 2024
 *  Jung, B.-J., **Ménétrier, B.**, Snyder, C., Liu, Z., Guerrette, J. J., Ban, J., Baños, I. H., Yu, Y. G. & Skamarock, W. C. (2023): Three-dimensional variational assimilation with a multivariate background error covariance for the Model for Prediction Across Scales-Atmosphere with the Joint Effort for data Assimilation Integration (JEDI-MPAS 2.0.0-beta). Geoscientific Model Development, 2024, 17, 3879-3895.
@@ -62,4 +66,4 @@
 
 ---
 
-&copy; 2025 Benjamin Menetrier
+&copy; 2026 Benjamin Menetrier
