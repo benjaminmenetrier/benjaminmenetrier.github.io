@@ -6,7 +6,7 @@
 
 Welcome to the professional web page of Benjamin Menetrier, researcher at the Norwegian Meteorological Institute (Oslo, Norway).
 
-<img src="index/profil_2.jpg" alt="profil" width="150"/>
+<img src="index/profil_3.png" alt="profil" width="150"/>
 
 GitHub page: [https://github.com/benjaminmenetrier](https://github.com/benjaminmenetrier)
 
